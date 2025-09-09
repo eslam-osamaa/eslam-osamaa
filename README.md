@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Eslam Osama!👋</h1>
-<h6 style="color: black;">🌍<i>Based in El-Mansoura, Egypt |</i> 💻<i>Passionate about building modern and scalable web applications.</i></h6>
-<h6 style="color: black;">Full-Stack Developer (React • Vue • .NET Core)</h6>
+<p>🌍<i>Based in El-Mansoura, Egypt |</i> 💻<i>Passionate about building modern and scalable web applications.</i></p>
+<p>Full-Stack Developer (React • Vue • .NET Core)</p>
 <hr/>
 <div>
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" />
