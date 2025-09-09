@@ -6,7 +6,13 @@
   <p align="left">
     <br/>
     <br/>
-Welcome to my GitHub profile! 👋  I'm Eslam Osama, a Full-Stack Developer (React • Vue • .NET Core) based in Egypt 🇪🇬. I'm passionate about building modern web applications 🚀 and always curious to learn new technologies.
+Welcome to my GitHub profile! 👋 I'm Eslam Osama,
+A Full-Stack Developer specializing in React, Vue, and .NET Core, based in Egypt 🇪🇬.
+
+I love building clean, efficient, and modern web applications 🚀.
+Always exploring new technologies and approaches to improve my craft.
+
+Looking forward to collaborating on interesting projects!
 
   </p>
 </div>
