@@ -64,8 +64,9 @@
 
 
 
-<hr/>
+
 <div align="center">
+  <hr/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&left_color=cornflowerblue&right_color=blue"  />
 </div>
 
