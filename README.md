@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/esllam-osama" target="_blank">
+  <a href="https://linkedin.com/in/esllam-osama" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linked%20In&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://wa.link/dcbbie" target="_blank">
@@ -44,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&left_color=cornflowerblue&right_color=blue"  />
