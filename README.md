@@ -9,8 +9,9 @@
 <h6 align="left">Full-Stack Developer (React • Vue • .NET Core)</h6>
 
 ###
-
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" />
 <p align="left">Welcome to my GitHub profile! I'm Eslam Osama, a Full-Stack Developer (React • Vue • .NET Core) based in Egypt 🇪🇬. I'm passionate about building modern web applications 🚀 and always curious to learn new technologies 💻.</p>
+
 
 ###
 <hr/>
@@ -56,7 +57,7 @@
 <br clear="both"/>
 
 <div align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" />
+
 
   <a href="https://linkedin.com/in/esllam-osama" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Linked%20In&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /> 
