@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">🌍Based in El-Mansoura, Egypt | 💻 Passionate about building modern and scalable web applications.</h6>
+<h6 align="left"><i>🌍Based in El-Mansoura, Egypt | 💻 Passionate about building modern and scalable web applications.</i></h6>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 <hr/>
-<h2 align="left">🛠️Technologies & Tools
+<h3 align="left">🛠️Technologies & Tools</h3>
 
 ###
 
@@ -39,7 +39,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
-</h2>
+
 <hr/>
 ###
 
