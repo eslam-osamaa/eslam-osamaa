@@ -4,6 +4,7 @@
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" />
 
   <p align="left">
+    <br/>
 Welcome to my GitHub profile! 👋 I'm Eslam Osama,
 A Full-Stack Developer specializing in React, Vue, and .NET Core, based in Egypt.
 I love building clean, efficient, and modern web applications 🚀.
