@@ -5,7 +5,6 @@
 
   <p align="left">
     <br/>
-    <br/>
 Welcome to my GitHub profile! 👋 I'm Eslam Osama,
 A Full-Stack Developer specializing in React, Vue, and .NET Core, based in Egypt 🇪🇬.
 
