@@ -55,9 +55,9 @@
 <h3>🤝 Let's Contact Me.</h3>
 <br clear="both"/>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" /> 
+<div align="left">
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" />
 
-<div align="left"> 
   <a href="https://linkedin.com/in/esllam-osama" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Linked%20In&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /> 
   </a> 
@@ -69,7 +69,9 @@
   </a> 
 </div>
 
+<br clear="both"/>
+
 <div align="center">
   <hr/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&left_color=cornflowerblue&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eslam-osamaa.eslam-osamaa&left_color=cornflowerblue&right_color=blue" />
 </div>
