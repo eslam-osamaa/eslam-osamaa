@@ -41,7 +41,7 @@
 </div>
 
 <hr/>
-###
+
 
 <br clear="both">
 
@@ -54,13 +54,13 @@
 
 
 
-###
+
 
 <h3>🤝 Let's Contact Me.</h3>
 <br clear="both"/>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1OTRob3pzYWh5ZDJldXA2eGdwN2N5b2poM25pc2VoeGJ1eWltOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-###
+
 
 
 <div align="left">
@@ -75,12 +75,12 @@
   </a>
 </div>
 
-###
 
 
 
-<div align="center">
+
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&left_color=cornflowerblue&right_color=blue"  />
 </div>
 
-###
+
