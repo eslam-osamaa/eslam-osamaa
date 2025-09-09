@@ -14,7 +14,7 @@
 
 ###
 <hr/>
-<h2 align="left">🛠️Technologies & Tools</h2>
+<h2 align="left">🛠️Technologies & Tools
 
 ###
 
@@ -39,6 +39,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
+</h2>
 <hr/>
 ###
 
