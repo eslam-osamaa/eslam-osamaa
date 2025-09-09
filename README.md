@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left"><i>🌍Based in El-Mansoura, Egypt | 💻 Passionate about building modern and scalable web applications.</i></h6>
+<h6 align="left">🌍<i>Based in El-Mansoura, Egypt |</i> 💻<i>Passionate about building modern and scalable web applications.</i></h6>
 
 ###
 
